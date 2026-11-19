@@ -1,32 +1,7 @@
 [
     {
         "id": 1,
-        "descripcion": "Tender la cama",
-        "completada": false
-    },
-    {
-        "id": 3,
-        "descripcion": "comer pan",
-        "completada": false
-    },
-    {
-        "id": 4,
-        "descripcion": "Sacar la basura",
-        "completada": true
-    },
-    {
-        "id": 5,
-        "descripcion": "Peinar al perro",
-        "completada": false
-    },
-    {
-        "id": 6,
-        "descripcion": "Cocinar papitas",
-        "completada": false
-    },
-    {
-        "id": 7,
-        "descripcion": "comiendo alitas 22",
+        "descripcion": "Preparar el desayuno",
         "completada": false
     }
 ]
